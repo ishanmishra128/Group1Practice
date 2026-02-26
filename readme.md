@@ -4,3 +4,4 @@ Both merges are fast forward merges since the new branches didn't diverge from t
 
 2c. If changes are made on both branches in the same file, but on different lines, there will be no conflict
 
+(We could not figure out how to upload an image here)
