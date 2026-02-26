@@ -1,0 +1,1 @@
+Both merges are fast forward merges since the new branches didn't diverge from the main branch, meaning we edited the main content, just in a new branch
